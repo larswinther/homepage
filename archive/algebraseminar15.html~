@@ -19,7 +19,7 @@
 
     <meta name="robots" content="noindex,follow"/>
 
-    <base href="https://larswinther.github.io/homepage/"/>
+    <base href="https://www.math.ttu.edu/~lchriste/"/>
 
     <link href="lwc.css" rel="stylesheet" type="text/css"/>
 
@@ -71,7 +71,7 @@
 	  </td>
 
 	  <td valign="top" align="right">
-	    <a href="https://www.depts.ttu.edu/math/"> TTU
+	    <a href="https://www.math.ttu.edu" target="_blank"> TTU
 	    Department<br/> of Mathematics<br/> and Statistics</a>
 	  </td>
 	</tr>
