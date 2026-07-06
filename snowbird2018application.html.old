@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+  <head>
+    <title>Stable Cohomology: Foundatios and Applications</title>
+
+    <meta http-equiv="Content-Type" content="text/html;
+	  charset=iso-8859-1" />
+
+    <meta name="abstract" content="algebra workshop"/>
+
+    <meta name="author" content="Lars Winther Christensen"/>
+
+    <meta name="description" content="Algebra workshop, application form"/>
+
+    <meta name="keywords" content="algebra, Lars Winther Christensen"/>
+
+    <meta name="robots" content="noindex,nofollow"/>
+
+    <base href="http://www.math.ttu.edu/~lchriste/"/> 
+
+    <link href="lwc.css" rel="stylesheet" type="text/css"/>
+  </head>
+
+  <body>
+    <center>
+      <table border="0" cellpadding="0" cellspacing="0" width="904px">
+	<tr>
+	  <td width="100%" align="center" colspan="3">
+	    <h1>Application Form</h1>
+	  </td>
+	</tr>
+
+	<tr>
+	  <td align="center">
+	    To apply to the workshop <em>Stable Cohomology: Foundations and Applications</em> please fill out this form.
+	  </td>
+	</tr>
+
+	<tr>
+	  <td align="center">
+	    <form method="post" action="http://freeport.math.ttu.edu/forms/snowbird.php"> 
+	      <table cellspacing="5px">
+		<tr>
+		  <td align="center" colspan="4"> <h3>Contact Information</h3> </td>
+		</tr>
+
+		<tr>
+ 		  <td align="right"><em>First Name</em></td> 
+		  <td align="left" width="260px"><input type="text" name="Contact_FirstName" size="35"/> </td>
+
+		  <td align="right"><em>Last Name</em></td>
+		  <td align="left" width="260px"><input type="text" name="Contact_LastName" size="35"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>Institution</em></td>
+		  <td align="left"><input name="Contact_Institution" size="35"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>Street Address</em></td>
+		  <td align="left"><input type="text" name="Contact_StreetAddress" size="35"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>Address (cont.)</em></td>
+		  <td align="left" ><input type="text" name="Contact_Address2" size="35"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>City</em></td>
+		  <td align="left" ><input type="text" name="Contact_City" size="25"/> </td>
+		  <td align="right"><em>State/Province</em></td>
+		  <td align="left" width="253"><input type="text" name="Contact_State" size="12"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>Zip Code</em></td>
+		  <td align="left"><input type="text" name="Contact_ZipCode" size="12" maxlength="12"/></td>
+		  <td align="right"><em>Country</em></td>
+		  <td align="left" width="260px"><input type="text" name="Contact_Country" size="12"/> </td>
+		</tr>
+
+		<tr>
+		  <td align="right"><em>E-mail</em></td>
+		  <td align="left"><input type="text" name="Contact_Email" size="35"/> </td>
+		</tr>
+	      </table>
+
+	      <table cellspacing="12px">
+		<tr>
+	          <td align="center" colspan="4"><h3>Employment Status and Research Interests</h3></td>
+		</tr>  
+		<tr>
+		  <td> <input type="radio"
+		  name="Applicant_Status" value="Untenured Faculty"/> Untenured Faculty</td>
+		  <td> <input type="radio"
+		  name="Applicant_Status" value="Graduate Student"/>
+		  Graduate Student</td>
+		  <td align="left"> Advisor/expected graduation year: <input size="40" name="Expected_Graduation"/></td>
+	        </tr>
+	      </table>
+
+	      <table cellspacing="12px">
+<!--		<tr>
+		  <td align="center" colspan="2"> <h3>Saturday Night Party</h3>
+		    <p align="center">The party takes place right
+		    after the talks on Saturday; food and drink will
+		    be provided. Please let us know:</p>
+		  </td>
+	        </tr>
+
+	        <tr>
+		  <td align="right" width="60%">Will you attend the party?</td>
+ 		  <td align="left" width="40%"><input type="hidden"
+ 		  name="Attending_Banquet" value="N/A"/><input type="radio"
+ 		  name="Attending_Banquet" value="Yes"/>Yes &nbsp; &nbsp;
+		  <input type="radio" name="Attending_Banquet" value="No"/> No</td>
+	        </tr>
+
+	        <tr>
+		  <td align="right">Are you vegetarian?</td>
+ 		  <td align="left"><input type="hidden"
+ 		  name="Vegetarian" value="N/A"/><input type="radio" name="Vegetarian"
+ 		  value="Yes"/>Yes &nbsp; &nbsp; <input type="radio" name="Vegetarian" value="No"/> No</td>
+	        </tr>
+			
+	        <tr>
+		  <td align="right">Number in your party?</td>
+		  <td align="left"> &nbsp;<input type="text" name="Number_Attending_Banquet" size="1"/></td>
+                </tr>
+
+		<tr> <td> </td> </tr>
+
+		<tr>
+		  <td align="center" colspan="2"> <h3>Hotel</h3>
+  		  <p> To secure a room at the conference hotel, you
+  		  must fill in this section; we make the
+  		  reservation.</p> </td>
+		</tr>
+
+		<tr>
+		  <td align="right">Are you willing to share a room? (Graduate students must share to be supported.)</td>
+ 		  <td align="left"> <input type="hidden"
+ 		  name="Share_Room" value="N/A"/> <input type="radio"
+ 		  name="Share_Room" value="Yes"/>Yes &nbsp; &nbsp;
+ 		  <input type="radio" name="Share_Room" value="No"/>
+ 		  No</td>
+	        </tr>
+		<tr>
+		  <td align="right"> Preferred roommate:</td>
+		  <td align="left"><input size="40" name="Preferred_Roommate"/></td>
+	        </tr>
+
+		<tr> <td> </td> </tr>
+
+		<tr>
+		  <td align="center" colspan="2"> <h3>Reporting Information</h3>
+		    <p align="center">We collect the following
+		    information for the purpose of reporting to the
+		    funding agencies.</p>
+		  </td>
+	        </tr>
+
+	        <tr>
+		  <td valign="top" align="right" width="60%">Gender</td>
+ 		  <td align="left" width="40%"><input type="hidden"
+ 		  name="Gender" value="N/A"/><input type="radio"
+ 		  name="Gender" value="Male"/>Male &nbsp; &nbsp;
+		  <input type="radio" name="Gender" value="Female"/>Female<br/>
+		  <input type="radio" name="Gender" value="Prefer not to say"/>Prefer not to say</td>
+	        </tr>
+
+	        <tr >
+		  <td valign="top" align="right">Ethnicity/Race</td>
+ 		  <td align="left"><input type="hidden"
+ 		  name="Ethnicity" value="N/A"/>
+		    <input type="radio" name="Ethnicity" value="Asian"/>Asian<br/>
+		    <input type="radio" name="Ethnicity" value="American Indian"/>American Indian or Alaskan Native<br/>
+		    <input type="radio" name="Ethnicity" value="Black"/>Black or African American<br/>
+		    <input type="radio" name="Ethnicity" value="Hispanic"/>Hispanic or Latino<br/>
+		    <input type="radio" name="Ethnicity" value="Native Hawaiian or PI"/>Native Hawaiian or other Pacific Islander<br/>
+		    <input type="radio" name="Ethnicity" value="White"/>White<br/>
+		    <input type="radio" name="Ethnicity" value="Two or more races"/>Two or more races<br/>
+		    <input type="radio" name="Ethnicity" value="Prefer not to say"/>Prefer not to say</td>
+	        </tr>
+
+	        <tr >
+		  <td valign="top" align="right">US Citizen or Permanent Resident</td>
+ 		  <td align="left"><input type="hidden"
+ 		  name="Citizenship" value="N/A"/>
+		    <input type="radio" name="Citizenship" value="US"/>Yes &nbsp; &nbsp;
+		    <input type="radio" name="Citizenship" value="nonUS"/>No</td>
+	        </tr>
+
+		<tr> <td> </td> </tr>
+
+		<tr>
+		  <td align="center" colspan="2"> <h3>Support</h3> </td>
+  		</tr>
+
+		<tr>
+		  <td align="right" width="60%">Do you wish to be
+		  considered for support?</td>
+		  <td width="40%" align="left">
+		    <input type="hidden" name="Request_Support" value="N/A"/>
+		    <input value="Yes" name="Request_Support"
+		    type="radio"/>Yes &nbsp; &nbsp; 
+		    <input value="No" name="Request_Support" type="radio"/>No</td>
+	        </tr>
+-->
+		<tr>
+		  <td align="center" colspan="2">
+		    <p>Please provide a short paragraph outlining your
+		    research interests in general<br/> and your
+		    interests in the workshop in particular:</p>
+		    <p><textarea name="Requests_Comments" cols="72" rows="4"></textarea></p>
+		    <p><input value="Submit Form" type="submit"/>
+		    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+		    <input value="Reset" type="reset"/></p>
+		  </td>
+		</tr>
+	      </table>
+	    </form>
+	  </td>
+	</tr>
+
+	<tr>
+	  <td width="100%" align="center" colspan="2">
+	  </td>
+	</tr>
+      </table>
+    </center>
+  </body>
+</html>

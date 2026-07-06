@@ -1,0 +1,8 @@
+Archiving a Teaching page
+
+(0) Add (archived page) in Title
+(1) Add (archived page) after h1 header and change to <h1 class="archived">
+(2) Add SEMESTER YEAR after course title
+(3) Change feedback form link to link to archive/feedback.html
+(4) Remove links to exam keys
+(5) Check all other href
