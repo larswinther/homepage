@@ -20,7 +20,7 @@ gensV = {1_L, a - a^15, a^2 - a^12 - a^16, a^4 - a^14,
     a^6 - a^13 + a^20, a^9 + a^16 + a^19};
 
 V = image transpose matrix apply( gensV, b -> polyToList(b) );
-  rank V -- rank is 6 -- cf. 3.1(1)
+  rank V -- output: 6, cf. 3.1(1)
  
 -- Setting up alpha times V and alpha^2 times V
  
